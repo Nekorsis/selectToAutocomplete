@@ -6,7 +6,7 @@
 	"repository":
 	{
 		"type": "git",
-		"url": "https://github.com/JamieAppleseed/selectToAutocomplete.git"
+		"url": "https://github.com/Nekorsis/selectToAutocomplete.git"
 	},
   "engine": "node >= 0.4.1"
 }
